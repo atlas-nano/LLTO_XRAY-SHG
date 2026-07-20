@@ -1,6 +1,9 @@
-# LLTO_XRAY-SHG
+# LLTO_XRAY-SHG — moved
 
-Example SHG simulation of LLTO containing the input file and pseudootential using real-tiem VGRTTDFT.
+> **This repository has been consolidated into the ATLAS Materials Physics Laboratory monorepo and is now read-only (archived).**
 
-For information on the implementation of the real-time VG-RTTDFT see
-https://www.sciencedirect.com/science/article/abs/pii/S0010465518300262?via%3Dihub
+### ➡️ New location: <https://github.com/atlas-nano/manuscript-data/tree/main/llto-xray-shg>
+
+Real-time VG-RTTDFT SHG simulation inputs for LLTO.
+
+All files and history are available at the new location above. Please update any bookmarks or citations to point there.
